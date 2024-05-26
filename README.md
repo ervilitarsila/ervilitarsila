@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ervili-tarsila)](https://linkedin.com/in/ervili-tarsila)
 
-### 🎓 About me:
+### 🎓 About me
 
 Senior Android Engineer with 12 years of experience in software development, specializing in Android Development for 6
 years, creating customized and efficient solutions for clients. I founded a startup. I hold a Master's degree in
